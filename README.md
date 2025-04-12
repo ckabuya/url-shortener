@@ -39,7 +39,7 @@ This implementation is based on the system design provided by Skilled Coder on X
 
 ### System Design Diagram
 
-![Image description](https://pbs.twimg.com/media/GoOZWQhWEAApKQe?format=jpg&name=large)
+![System Design Diagram](assets/system-design.png)
 
 ## Tech Stack
 - **Node.js**: Backend runtime.
