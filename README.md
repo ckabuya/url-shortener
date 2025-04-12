@@ -294,6 +294,8 @@ This implementation includes basic scalability features:
     * Linux: `sudo systemctl start redis-server`
     * macOS: `brew services start redis`
     * Windows: Run `redis-server.exe`
+    ![Redis Running](assets/redis-running.png)
+
 
 ### MongoDB Connection Error:
 
