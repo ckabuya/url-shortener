@@ -105,7 +105,12 @@ Before running the project, ensure you have the following installed:
     node server.js
     ```
     The server will start on `http://localhost:3000` (or the port specified in `.env`).
-
+    * **Output**
+    ```bash
+    MongoDB connected
+    Redis connected
+    Server running on port 3000
+    ```
 ## API Documentation
 
 The API provides two main endpoints for shortening and redirecting URLs.
