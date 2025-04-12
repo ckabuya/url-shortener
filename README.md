@@ -262,7 +262,7 @@ This implementation includes basic scalability features:
 * **Counter-Based Short Codes**: Ensures uniqueness without collision risks, using base62 encoding.
     * A 5-character short code can handle 916,132,832 URLs (62^5).
     * A 6-character short code can handle \~56.8 billion URLs (62^6).
-
+    
 ### Future Improvements:
 
 * **Sharding**: Distribute short codes across multiple database shards for massive scale (e.g., shard by counter ranges).
