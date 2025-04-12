@@ -38,7 +38,7 @@ This implementation is based on the system design provided by Skilled Coder on X
 - **Capacity**: With base62 encoding, a 5-character short code can represent 916,132,832 unique URLs (62^5), and a 6-character code can handle ~56.8 billion URLs.
 
 ### System Design Diagram
-Below is a placeholder for the system design diagram (you can create one using tools like draw.io or Lucidchart and add it to the `assets/` folder):
+
 ![Image description](https://pbs.twimg.com/media/GoOZWQhWEAApKQe?format=jpg&name=large)
 
 ## Tech Stack
